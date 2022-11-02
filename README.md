@@ -1,7 +1,5 @@
 <h1>Hi there, my name is Keffri Neal. 👋</h1>
 
-<hr>
-
 I am a developer from Port Coquitlam. Thanks for taking the time to check out my GitHub profile.
 
 My portfolio page is available <a href="https://keffri.com">here</a> for viewing.
