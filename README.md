@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, my name is Keffri Neal. 👋
+
+<hr>
+
+I am a developer from Port Coquitlam. Thanks for taking the time to check out my GitHub profile.
+
+My portfolio page is available <a href="https://keffri.com">here</a> for viewing.
 
 <!--
 **keffri/keffri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
