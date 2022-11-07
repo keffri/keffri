@@ -4,7 +4,9 @@ I am a developer from Port Coquitlam, BC. Thanks for taking the time to check ou
 
 <h2>Links</h2>
 Personal Portfolio: <a href="https://keffri.com" target="_blank">keffri.com</a>
+<br>
 LinkedIn: <a href="https://www.linkedin.com/in/keffri/" target="_blank">linkedin.com/in/keffri</a>
+<br>
 Twitter: <a href="https://twitter.com/keffri">@keffri</a>
 
 <!--
