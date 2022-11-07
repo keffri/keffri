@@ -2,7 +2,10 @@
 
 I am a developer from Port Coquitlam, BC. Thanks for taking the time to check out my GitHub profile.
 
-My portfolio page is available <a href="https://keffri.com" target="_blank">here</a> for viewing.
+<h2>Links</h2>
+Personal Portfolio: <a href="https://keffri.com" target="_blank">keffri.com</a>
+LinkedIn: <a href="https://www.linkedin.com/in/keffri/" target="_blank">linkedin.com/in/keffri</a>
+Twitter: <a href="https://twitter.com/keffri">@keffri</a>
 
 <!--
 **keffri/keffri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
