@@ -10,7 +10,7 @@ I am a developer based in Port Coquitlam, BC. Thanks for taking the time to chec
   <li>Amazon S3</li>
   <li>Testing
     <ul>
-      <li>Front-end - Enzyme + Jest</li>
+      <li>Front-end - React Testing Library + Jest</li>
       <li>Back-end - Jest</li>
       <li>Integration - React Testing Library</li>
     </ul>
