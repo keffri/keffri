@@ -6,7 +6,8 @@ I am a developer based in Port Coquitlam, BC. Thanks for taking the time to chec
 
 <ul>
   <li>TypeScript</li>
-  <li>PostgreSQL</li>
+  <li>SQL</li>
+  <li>Postgres</li>
   <li>Amazon S3</li>
   <li>Testing
     <ul>
