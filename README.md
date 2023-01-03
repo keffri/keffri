@@ -1,6 +1,6 @@
 <h1>Hi there, my name is Keffri. 👋</h1>
 
-I am a developer based in Port Coquitlam, BC. Thanks for taking the time to check out my GitHub profile.
+I am a developer based in Port Coquitlam, B.C. Thanks for taking the time to check out my GitHub profile.
 
 <h2>In Progress</h2>
 
