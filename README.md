@@ -2,6 +2,8 @@
 
 I am a developer based in Port Coquitlam, B.C. Thanks for taking the time to check out my GitHub profile.
 
+My resume is available for viewing <a href="https://drive.google.com/file/d/1sgmx9hBdSu-g13lq-FQ1stH-FC2KEbcE/view?usp=sharing" target="_blank">here</a>.
+
 <h2>In Progress</h2>
 
 <ul>
@@ -23,6 +25,7 @@ I am a developer based in Port Coquitlam, B.C. Thanks for taking the time to che
 
 
 <h2>Links</h2>
+
 Personal Portfolio: <a href="https://keffri.com" target="_blank">keffri.com</a>
 <br>
 LinkedIn: <a href="https://www.linkedin.com/in/keffri/" target="_blank">linkedin.com/in/keffri</a>
