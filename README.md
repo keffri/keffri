@@ -30,7 +30,6 @@ Personal Portfolio: <a href="https://keffri.com" target="_blank">keffri.com</a>
 <br>
 LinkedIn: <a href="https://www.linkedin.com/in/keffri/" target="_blank">linkedin.com/in/keffri</a>
 <br>
-Twitter: <a href="https://twitter.com/keffri">@keffri</a>
 
 <!--
 **keffri/keffri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
